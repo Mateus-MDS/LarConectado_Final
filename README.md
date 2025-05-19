@@ -127,6 +127,7 @@ Sensor LDR, Ultrassônico HC-SR04, LEDs
 
 Repositório
 GitHub: https://github.com/Mateus-MDS/LarConectado_Final.git
+Youtube: https://youtu.be/cSUP2u25UVo?si=1MueiHiRLovVWkmY
 
 Autor
 Nome: Mateus Moreira da Silva
